@@ -1,5 +1,5 @@
 {
-  "name": "socket.io",
+  "name": "sio2",
   "version": "2.4.1",
   "description": "node.js realtime framework server",
   "keywords": [
